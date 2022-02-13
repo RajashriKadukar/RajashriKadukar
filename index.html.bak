@@ -29,7 +29,7 @@
 		}
 		label{
 		font-size:20px;
-		//color: antiquewhite;
+		color: antiquewhite;;}
 		</style>
 	</head>
 	<body>
